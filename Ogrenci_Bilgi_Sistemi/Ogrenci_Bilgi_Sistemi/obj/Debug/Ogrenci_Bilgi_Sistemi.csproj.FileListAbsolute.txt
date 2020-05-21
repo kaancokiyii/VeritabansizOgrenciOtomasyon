@@ -1,0 +1,10 @@
+C:\Users\kaanf\Desktop\Ogrenci_Bilgi\Ogrenci_Bilgi_Sistemi\Ogrenci_Bilgi_Sistemi\bin\Debug\Ogrenci_Bilgi_Sistemi.exe.config
+C:\Users\kaanf\Desktop\Ogrenci_Bilgi\Ogrenci_Bilgi_Sistemi\Ogrenci_Bilgi_Sistemi\bin\Debug\Ogrenci_Bilgi_Sistemi.exe
+C:\Users\kaanf\Desktop\Ogrenci_Bilgi\Ogrenci_Bilgi_Sistemi\Ogrenci_Bilgi_Sistemi\bin\Debug\Ogrenci_Bilgi_Sistemi.pdb
+C:\Users\kaanf\Desktop\Ogrenci_Bilgi\Ogrenci_Bilgi_Sistemi\Ogrenci_Bilgi_Sistemi\obj\Debug\Ogrenci_Bilgi_Sistemi.csprojAssemblyReference.cache
+C:\Users\kaanf\Desktop\Ogrenci_Bilgi\Ogrenci_Bilgi_Sistemi\Ogrenci_Bilgi_Sistemi\obj\Debug\Ogrenci_Bilgi_Sistemi.Form1.resources
+C:\Users\kaanf\Desktop\Ogrenci_Bilgi\Ogrenci_Bilgi_Sistemi\Ogrenci_Bilgi_Sistemi\obj\Debug\Ogrenci_Bilgi_Sistemi.Properties.Resources.resources
+C:\Users\kaanf\Desktop\Ogrenci_Bilgi\Ogrenci_Bilgi_Sistemi\Ogrenci_Bilgi_Sistemi\obj\Debug\Ogrenci_Bilgi_Sistemi.csproj.GenerateResource.cache
+C:\Users\kaanf\Desktop\Ogrenci_Bilgi\Ogrenci_Bilgi_Sistemi\Ogrenci_Bilgi_Sistemi\obj\Debug\Ogrenci_Bilgi_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\kaanf\Desktop\Ogrenci_Bilgi\Ogrenci_Bilgi_Sistemi\Ogrenci_Bilgi_Sistemi\obj\Debug\Ogrenci_Bilgi_Sistemi.exe
+C:\Users\kaanf\Desktop\Ogrenci_Bilgi\Ogrenci_Bilgi_Sistemi\Ogrenci_Bilgi_Sistemi\obj\Debug\Ogrenci_Bilgi_Sistemi.pdb
